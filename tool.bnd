@@ -1,0 +1,4 @@
+-tool \
+	.*;skip=true, \
+	gradle.properties;macro=true,\
+	gradlew;exec=true
