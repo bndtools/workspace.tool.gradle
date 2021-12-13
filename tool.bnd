@@ -1,5 +1,5 @@
 -tool \
 	.*;tool.bnd;skip=true, \
-	gradle.properties;macro=true,\
+	gradle.properties;macro=true;append=true,\
 	gradlew;exec=true, \
 	*
