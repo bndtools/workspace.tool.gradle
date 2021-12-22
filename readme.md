@@ -5,6 +5,6 @@ It will be carefully maintained to allow automation. For this, it will maintain 
 guarantees:
 
 * New releases will be tagged with the Gradle version in major.minor.micro, like `7.3.0`.
-* The tool.bnd file will be maintained. For this meaning of this files see [-instruction][1].
+* The tool.bnd file will be maintained. For this meaning of this files see [-buildtool][1].
 
 [1]: https://bnd.bndtools.org/instructions/buildtool.html
